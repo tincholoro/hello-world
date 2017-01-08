@@ -1,2 +1,3 @@
 # hello-world
-Hello world tutorial project
+Hello world tutorial
+Hi, my name is Tincho. Mr. Loro to you. 
